@@ -1,0 +1,14 @@
+Facial_Recognition_Part_1: It is grabbing all the Face Samples that are required for face detection.
+
+
+Facial_Recognition_Part_2: Storing Face Samples into the hard drive.
+
+
+Facial_Recognition_Part_3: Main face detection program detecting faces using samples saved. 
+
+
+
+
+
+
+
