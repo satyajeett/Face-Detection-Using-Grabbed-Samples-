@@ -63,7 +63,7 @@ while True:
             
 
         else:
-            cv2.putText(image, "OHH! Hi Samarth", (250, 450), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 2)
+            cv2.putText(image, "OHH! Hi Satyajeet!", (250, 450), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 2)
             cv2.imshow('Face Cropper', image)
             
             
